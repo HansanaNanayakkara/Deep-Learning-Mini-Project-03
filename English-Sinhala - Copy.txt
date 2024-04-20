@@ -1,0 +1,428 @@
+You|ඔබ
+I|මම
+Here|මෙතන
+We|අප
+He|ඔහු
+She|ඇය
+Live|සජීවි
+Study|අධ්‍යයනය කරන්න
+Go|යන්න
+dog|බල්ලා
+cat|බළලා
+Ball|පන්දුව
+house|නිවස
+tree|ගස
+run|දුවනවා
+jump|පනින්න
+happy|සතුටු
+sad|දුක
+big|ලොකු
+small|කුඩා
+fast|ඉක්මනින්
+slow|මන්දගාමී
+red|රතු
+blue|නිල්
+green|කොළ
+yellow|කහ
+eat|කනවා
+drink|බොනවා
+sleep|නිදාගන්නවා
+wake|අවදි කරනවා
+book|පොත
+pen|පෑන
+paper|කඩදාසි
+chair|පුටුව
+table|වගුව
+car|මෝටර් රථය
+bike|බයිසිකලය
+walk|ඇවිදින්න
+talk|කතා කරනවා
+laugh|හිනා වෙනවා
+cry|අඬනවා
+smile|සිනහව
+frown|රවනවා
+door|දොර
+window|කවුළුව
+computer|පරිගණක
+phone|දුරකථන
+read|කියවනවා
+write|ලියනවා
+Sing|ගයනවා
+dance|නටනවා
+hear|අහන්න
+see|බලන්න
+touch|ස්පර්ශ කරනවා
+taste|රස
+smell|සුවඳ
+good|යහපත
+bad|නරක
+right|හරි
+wrong|වැරදි
+up|දක්වා
+down|පහළ
+in|තුල
+out|පිටතට
+on|මත
+off|අක්‍රිය
+near|අසල
+far|දුරින්
+there|එතන
+now|දැන්
+then|ඉන්පසු
+day|දවස
+night|රෑ
+sun|හිරු
+moon|සඳ
+star|තරුව
+sky|අහස
+cloud|වලාකුළු
+rain|වැස්ස
+snow|හිම
+wind|සුළඟ
+hot|උණුසුම්
+cold|සීතලයි
+summer|ගිම්හානය
+winter|ශීත ඍතුව
+spring|වසන්තය
+autumn|සරත් ඍතුව
+fall|වැටෙනවා
+year|අවුරුදු
+month|මස
+week|සතිය
+day|දවස
+hour|පැය
+minute|මිනිත්තුව
+second|තත්පර
+yesterday|ඊයේ
+today|අද
+tomorrow|හෙට
+always|සැමවිටම
+never|කවදාවත් නෑ
+sometimes|සමහර විට
+often|බොහෝ විට
+rarely|කලාතුරකින්
+Quickly|ඉක්මනින්
+Slowly|සෙමින්
+Loudly|හයියෙන්
+Softly|මෘදු ලෙස
+Soon|ඉක්මනින්
+later|පසු
+now|දැන්
+then|ඉන්පසු
+before|කලින්
+after|අනතුරුව
+first|පලමු
+last|අවසන්
+one|එක
+two|දෙක
+three|තුන
+four|සිව්
+five|පහ
+six|හය
+seven|හත
+eight|අට
+nine|නවය
+ten|දහය
+eleven|එකොළොහ
+twelve|දොළොස්
+twenty|විස්ස
+thirty|තිස්
+forty|හතළිහක්
+fifty|පනස්
+sixty|හැට
+seventy|හැත්තෑ
+eighty|අසූව
+Ninety|අනූව
+hundred|සියය
+thousand|දහස
+million|මිලියන
+billion|බිලියන
+father|පියා
+mother|මව
+brother|සහෝදරයා
+sister|සහෝදරිය
+son|පුතා
+daughter|දියණිය
+aunt|නැන්දා
+uncle|මාමා
+cousin|මස්සිනා
+grandmother|ආච්චි
+grandfather|සීයා
+nephew|බෑණා
+niece|ලේලිය
+friend|මිතුරා
+enemy|සතුරා
+teacher|ගුරු
+student|ශිෂ්යයා
+doctor|වෛද්යවරයා
+nurse|හෙදිය
+policeman|පොලිස්කාරයා
+firefighter|ගිනි නිවන භටයා
+astronaut|ගගනගාමියා
+pilot|නියමුවා
+chef|චෙෆ්
+farmer|ගොවියා
+scientist|විද්යාඥයා
+engineer|ඉංජිනේරු
+artist|කලාකරු
+musician|සංගීතඥයා
+actor|නළුවා
+actress|නිළිය
+writer|ලේඛකයා
+poet|කවියා
+athlete|මලල ක්රීඩකයා
+baker|බේකර්
+barber|බාබර්
+carpenter|වඩු කාර්මිකයා
+dentist|දන්ත වෛද්යවරයා
+electrician|විදුලි කාර්මිකයා
+gardener|උයන්පල්ලා
+hairdresser|කොණ්ඩා මෝස්තරකරු
+journalist|මාධ්යවේදී
+lawyer|නීතිඥයා
+mechanic|යාන්ත්රික
+plumber|ජලනල කාර්මිකයා
+sailor|නාවිකයා
+Soldier|සොල්දාදුවා
+tailor|ටේලර්
+waiter|වේටර්
+waitress|වේටර්වරියක්
+clerk|ලිපිකරු
+cashier|අයකැමි
+receptionist|පිළිගැනීමේ නිලධාරියා
+librarian|පුස්තකාලයාධිපති
+coach|පුහුණුකරුවා
+referee|විනිසුරු
+captain|කපිතාන්
+king|රජ
+queen|රැජින
+prince|කුමාරයා
+princess|කුමරිය
+president|ජනාධිපති
+vice-president|උප ජනාධිපති
+mayor|නගරාධිපති
+governor|ආණ්ඩුකාර
+senator|සෙනෙට් සභිකයා
+congressman|කොන්ග්රස්කාරයා
+lawyer|නීතිඥයා
+judge|විනිශ්චය කරන්න
+detective|රහස් පරීක්ෂකයා
+criminal|අපරාධ
+victim|ගොදුර
+thief|හොරා
+robber|හොරා
+burglar|ගෙවල් බිදින්නා
+spy|ඔත්තු බලන්න
+terrorist|ත්රස්තවාදී
+hostage|ප්රාණ ඇපකරු
+criminal|අපරාධ
+prisoner|සිරකරුවා
+Convict|වරදකරු
+jail|හිරගෙදර
+prison|බන්ධනාගාර
+cell|සෛලය
+crime|අපරාධය
+robbery|මංකොල්ලකෑම
+theft|සොරකම
+burglary|සොරකම් කිරීම
+kidnapping|පැහැර ගැනීම
+murder|ඝාතනය
+assassination|ඝාතනය
+terrorism|ත්රස්තවාදය
+hostage|ප්රාණ ඇපකරු
+war|යුද්ධය
+battle|සටන
+fight|සටන් කරනවා
+attack|පහර දෙනවා
+defense|ආරක්ෂක
+peace|සාම
+love|ආදරය
+hate|වෛර කරනවා
+anger|කෝපය
+fear|බිය
+joy|සතුට
+sadness|දුක
+happiness|සතුට
+loneliness|තනිකම
+friendship|මිත්රත්වය
+relationship|සම්බන්ධතාවය
+marriage|විවාහ
+divorce|දික්කසාදය
+wedding|විවාහ
+funeral|අවමංගල්යය
+birthday|උපන් දිනය
+holiday|නිවාඩු
+vacation|නිවාඩු
+trip|සංචාරය
+journey|ගමන
+adventure|ත්රාසජනක
+discovery|සොයාගැනීම
+exploration|ගවේෂණය
+invention|නව නිපැයුම්
+innovation|නවෝත්පාදනය
+creation|නිර්මාණය
+destruction|විනාශය
+accident|අනතුර
+mistake|වැරැද්ද
+error|දෝෂය
+problem|ගැටලුව
+solution|විසඳුමක්
+question|ප්රශ්නය
+answer|පිළිතුර
+challenge|අභියෝගය
+difficulty|දුෂ්කරතාව
+obstacle|බාධාවක්
+barrier|බාධකයක්
+limit|සීමාව
+boundary|මායිම
+rule|නීතිය
+law|නීති
+regulation|නියාමනය
+guideline|මාර්ගෝපදේශය
+requirement|අවශ්යතාවය
+instruction|උපදෙස්
+command|විධානය
+order|නියෝග
+request|ඉල්ලීම
+suggestion|යෝජනාව
+advice|උපදෙස්
+warning|අනතුරු ඇඟවීම
+notice|දැනුම්දීම
+signal|සංඥාව
+symbol|සංකේතය
+sign|ලකුණ
+mark|ලකුණ
+label|ලේබලය
+tag|ටැගය
+price|මිල
+cost|පිරිවැය
+value|අගය
+worth|වටිනා
+benefit|ප්රතිලාභය
+advantage|වාසිය
+disadvantage|අවාසිය
+problem|ගැටලුව
+issue|කලාපය
+concern|සැලකිලිමත් වීම
+worry|කනස්සල්ල
+fear|බිය
+doubt|සැකය
+uncertainty|අවිනිශ්චිතතාවය
+risk|අවදානම්
+danger|අනතුර
+hazard|අනතුර
+threat|තර්ජනය
+safety|ආරක්ෂාව
+security|ආරක්ෂක
+protection|ආරක්ෂාව
+defense|ආරක්ෂක
+shield|පලිහ
+armor|සන්නාහය
+weapon|ගිනි අවියක්
+tool|මෙවලම
+equipment|උපකරණ
+gear|ගියර්
+device|උපාංගය
+machine|යන්ත්රය
+Engine|එන්ජිම
+motor|මෝටර්
+vehicle|වාහන
+car|මෝටර් රථ
+truck|ට්රක් රථය
+bus|බස්
+train|දුම්රිය
+airplane|ගුවන් යානය
+helicopter|හෙලිකොප්ටරය
+boat|බෝට්ටුව
+ship|නැව
+submarine|සබ්මැරීනය
+rocket|රොකට්
+spacecraft|අභ්යවකාශ යානා
+satellite|චන්ද්රිකාව
+robot|රොබෝ
+computer|පරිගණක
+laptop|ලැප්ටොප්
+tablet|ටැබ්ලට්
+smartphone|ස්මාර්ට් ජංගම දුරකථනය
+camera|කැමරා
+television|රූපවාහිනිය
+radio|ගුවන් විදුලි
+internet|අන්තර්ජාල
+website|වෙබ් අඩවිය
+social media|සමාජ මාධ්ය
+network|ජාල
+platform|වේදිකාව
+software|මෘදුකාංග
+program|වැඩසටහන
+application|අයදුම්පත
+app|යෙදුම
+game|ක්රීඩාව
+video game|වීඩියෝ ක්රීඩාව
+puzzle|ප්රහේලිකාව
+challenge|අභියෝගය
+competition|තරඟාවලිය
+tournament|තරඟය
+match|තරඟය
+race|තරඟය
+contest|තරඟය
+event|සිදුවීම
+ceremony|උත්සවය
+festival|උත්සවය
+celebration|සැමරුම
+party|පක්ෂය
+gathering|රැස් කිරීම
+meeting|රැස්වීම
+conference|සම්මන්ත්රණය
+seminar|සම්මන්ත්රණය
+workshop|වැඩමුළුව
+The dog runs.|බල්ලා දුවනවා.
+The cat sleeps.|බළලා නිදාගන්නවා.
+The ball is red.|පන්දුව රතු පාටයි.
+The house is big.|නිවස විශාලයි.
+The tree is green.|ගස කොළ පාටයි.
+I am happy.|මම සතුටින්.
+She is sad.|ඇය දුකින්.
+He is small.|ඔහු කුඩා ය.
+They are fast.|ඔවුන් වේගවත් ය.
+We are slow.|අපි මන්දගාමීයි.
+The big tree provides shade on sunny days.|විශාල ගස අව්ව සහිත දිනවල සෙවන සපයයි.
+She drinks cold water after a long run.|ඇය දිගු ගමනකින් පසු සිසිල් ජලය පානය කරයි.
+He reads books about space exploration.|ඔහු අභ්‍යවකාශ ගවේෂණ ගැන පොත් කියවනවා.
+They play with a red ball in the backyard.|ඔවුන් රතු බෝලයක් සමඟ පිටියේ සෙල්ලම් කරති.
+We laugh when we watch funny movies together.|අපි එකට විනෝදජනක චිත්‍රපට නරඹන විට අපි සිනාසෙමු.
+The dog barks loudly, yet the cat remains calm.|බල්ලා හයියෙන් බුරන නමුත් බළලා සන්සුන්ව සිටියි.
+She dances gracefully, but he moves awkwardly.|ඇය අලංකාර ලෙස නටන නමුත් ඔහු අපහසුවෙන් ගමන් කරයි.
+They study diligently, so they perform well in exams.|ඔවුන් උනන්දුවෙන් පාඩම් කරන නිසා විභාගවලින් දස්කම් දක්වති.
+He sings beautifully, or he plays the guitar skillfully.|ඔහු ලස්සනට ගායනා කරයි, නැතහොත් ඔහු දක්ෂ ලෙස ගිටාර් වාදනය කරයි.
+We eat dinner early, and then we go for a walk.|අපි රෑ කෑම වේලාසනින් කනවා, ඊට පස්සේ අපි ඇවිදින්න යනවා.
+The dog runs happily in the park.|බල්ලා උද්‍යානයේ සතුටින් දිව යයි.
+She drinks water from a blue cup.|ඇය නිල් කෝප්පයකින් වතුර බොනවා.
+He reads a book on the red chair.|ඔහු රතු පුටුව මත පොතක් කියවයි.
+They eat apples under the big tree.|ඔවුන් විශාල ගසක් යට ඇපල් කනවා.
+We laugh together at funny jokes.|අපි විහිලු විහිළුවලට එකට හිනා වෙනවා.
+The cat sleeps, and the dog plays outside.|බළලා නිදාගන්නවා, බල්ලා එළියේ සෙල්ලම් කරනවා.
+He runs fast, but she walks slowly.|ඔහු වේගයෙන් දුවන නමුත් ඇය ඇවිදින්නේ සෙමින්.
+They jump high, yet they land softly.|ඔවුන් ඉහළට පනිනවා, නමුත් ඔවුන් මෘදු ලෙස ගොඩ බසිනවා.
+She sings loudly, or she dances quietly.|ඇය හයියෙන් ගායනා කරයි, නැතහොත් ඇය නිහඬව නටයි.
+We laugh and cry at the same time.|අපි හිනාවෙලා අඩනවා එක පාරටම.
+Does the dog run faster than the cat?|බල්ලා බළලාට වඩා වේගයෙන් දුවනවාද?
+Is the ball blue or red?|පන්දුව නිල් හෝ රතුද?
+Where is the tree located?|ගස පිහිටා ඇත්තේ කොහේද?
+How big is the house?|නිවස කොතරම් විශාලද?
+What color is the chair?|පුටුවේ වර්ණය කුමක්ද?
+Can you see the stars at night?|රෑට තරු පේනවාද?
+Who is happy?|සතුටු වන්නේ කවුද?
+Why is she sad?|ඇය දුක් වන්නේ ඇයි?
+When do you usually wake up?|ඔබ සාමාන්‍යයෙන් අවදි වන්නේ කවදාද?
+Do you have a pen?|ඔබට පෑනක් තිබේද?
+Who is sitting at the table?|මේසයේ වාඩි වී සිටින්නේ කවුද?
+What do you eat for breakfast?|ඔබ උදේ ආහාරය සඳහා කන්නේ කුමක්ද?
+How do you travel to work?|ඔබ රැකියාවට යන්නේ කෙසේද?
+Is it raining outside?|එළියේ වැස්සද?
+When is your birthday?|ඔයාගේ උපන් දිනය කවදා ද?
+What time does the movie start?|චිත්රපටය ආරම්භ වනුයේ කීයටද?
+Are you going on vacation this year?|ඔබ මේ වසරේ නිවාඩුවක් ගත කරනවාද?
+Where did you go last summer?|පසුගිය ගිම්හානයේදී ඔබ කොහෙද ගියේ?
+Who is your favorite actor?|ඔබේ ප්රියතම නළුවා කවුද?
+What is the capital of France?|ප්රංශයේ අගනුවර කුමක්ද?
+While the dog runs in the park, the cat sleeps peacefully at home.|බල්ලා උද්‍යානයේ දුවද්දී, බළලා සාමකාමීව නිවසේ නිදා ගනී.
